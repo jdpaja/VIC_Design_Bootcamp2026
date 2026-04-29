@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## VICDESIGNBOOTCAMP2026
 
-Explain how your project works
+VICCCC
 
 ## ICBOOTCAMP2026
 
-Explain how to use your project
+ICCC
 
 ## BOOTCAMP
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LIST
